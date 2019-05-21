@@ -1,0 +1,16 @@
+    
+
+    ul.oldd {
+        position: relative;
+        top:  -80px;
+        left: 20px;
+        background-color: none;
+        width: 500px;
+
+
+        background-color: none;
+        display: inline-block;
+        font-family: 微軟正黑體, sans-serif;
+        font-size: auto; 
+        color: #fff;  
+    }

@@ -27,6 +27,7 @@ ul.homemenu3 {
           height: auto;
           max-width: 100%;
     }
+
 iframe {
      height: 500px;
      max-width: 100%;
@@ -35,7 +36,3 @@ img {
      height: auto;
      max-width: 100%;
  }
-ul.fixed{
-	height: auto;
-    max-width: 100%;
-}
