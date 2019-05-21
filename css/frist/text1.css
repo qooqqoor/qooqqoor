@@ -18,7 +18,7 @@
         white-space: nowrap;
         top:15; /*距離上方 0 像素*/
         z-index:1; /*重疊時會在其他元素之上*/
-        left:200px; /*距離左方的位置*/
+        left:auto; /*距離左方的位置*/
     }
 
  
