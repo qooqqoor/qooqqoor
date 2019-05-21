@@ -14,14 +14,16 @@
     }
 
     ul.homemenu2 li {
-        position: relative;
+        position: fixed;
         white-space: nowrap;
-        
+        top:15; /*距離上方 0 像素*/
+        z-index:1; /*重疊時會在其他元素之上*/
+        left:650px; /*距離左方的位置*/
     }
 
  
      ul.homemenu2 a {
-        background-color: none;
+        background-color:   none;
         color:  #CCCCFF ;
         display: block;
         padding: 0 100px ;
@@ -30,7 +32,7 @@
 
     }
     ul.homemenu2 a:hover { /* 滑鼠滑入按鈕變色*/
-        background-color: none;
+        background-color:   none;
         color: #987654;
     }
     
