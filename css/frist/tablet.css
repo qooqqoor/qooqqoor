@@ -1,0 +1,40 @@
+@charset "utf-8";
+body{
+	background-color: #6CF;
+}
+h1{
+	color:#FFF;
+	font-size: 50px;
+}
+ul.homemenus { 
+            font-size: 30px;
+            height: auto;
+            max-width: 80%;
+    }
+ul.homemenu1 {
+            font-size: 30px;
+            height: auto;
+            max-width: 80%;
+    }
+ul.homemenu2 {
+            font-size: 30px;
+            height: auto;
+            max-width: 80%;
+    }
+ul.homemenu3 {
+            font-size: 30px;
+            height: auto;
+            max-width: 80%;
+    }
+iframe {
+     height: 300px;
+     max-width: 100%;
+ }
+img {
+     height: auto;
+     max-width: 100%;
+ }
+ ul.fixed{
+	height: auto;
+    max-width: 100%;
+}

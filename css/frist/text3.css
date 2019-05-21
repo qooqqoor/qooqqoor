@@ -1,0 +1,37 @@
+    
+
+    ul { /* 取消ul預設的內縮及樣式 */
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+
+    ul.homemenu3 {
+        display: inline-block;
+        font-family: shfo, sans-serif;
+        font-size: auto;   
+    }
+
+    ul.homemenu3 li {
+        position: relative;
+        white-space: nowrap;
+        
+    }
+
+ 
+     ul.homemenu3 a {
+        background-color: none;
+        color: #CC0000;
+        display: block;
+        padding: 0 100px ;
+        text-decoration: none;
+        line-height: 40px;
+
+    }
+    ul.homemenu3 a:hover { /* 滑鼠滑入按鈕變色*/
+        background-color: none;
+        color: #007777;
+    }
+    
+  
