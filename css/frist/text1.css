@@ -14,11 +14,11 @@
     }
 
     ul.homemenu1 li {
-        position: fixed;
+        position: relative;
         white-space: nowrap;
         top:15; /*距離上方 0 像素*/
         z-index:1; /*重疊時會在其他元素之上*/
-        left:350px; /*距離左方的位置*/
+        left:200px; /*距離左方的位置*/
     }
 
  
@@ -26,7 +26,7 @@
         background-color: none;
         color: #5f6;
         display: block;
-        padding: 0 100px ;
+        padding: 0 40px ;
         text-decoration: none;
         line-height: 40px;
 
