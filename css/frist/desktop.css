@@ -5,27 +5,37 @@ body{
 }
 h1{
 	color:#CCC;
-	font-size: 100px;
+
 }
 ul.homemenu {
-          font-size: 40px;
+          font-size: 50px;
           height: auto;
           max-width: 100%;
+          
     }
 ul.homemenu1 {
-          font-size: 40px;
+          font-size: 50px;
           height: auto;
           max-width: 100%;
+         
     }
 ul.homemenu2 {
-          font-size: 40px;
+          font-size: 50px;
           height: auto;
           max-width: 100%;
+          left:400px;
     }
 ul.homemenu3 {
-          font-size: 40px;
+          font-size: 50px;
           height: auto;
           max-width: 100%;
+          
+    }
+ul.oldd {
+          font-size: 25px;
+          height: auto;
+          max-width: 100%;
+         
     }
 
 iframe {
