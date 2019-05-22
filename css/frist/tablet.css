@@ -6,7 +6,7 @@ h1{
 	color:#FFF;
 	
 }
-ul.homemenus { 
+ul.homemenu { 
             font-size: 40px;
             height: auto;
             max-width: 80%;
@@ -34,9 +34,9 @@ ul.oldd {
     }
 iframe {
      height: 300px;
-     max-width: 100%;
+     max-width: 80%;
  }
 img {
      height: auto;
-     max-width: 100%;
+     max-width: 80%;
  }

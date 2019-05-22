@@ -19,6 +19,24 @@
 <link href="css/frist/pics.css" rel="stylesheet" type="text/css" />
 <link href="css/frist/fixed.css" rel="stylesheet" type="text/css" />
 <link href="css/frist/bgg2.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+  img.button {
+    opacity: 0.6;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+  }
+  img.button:hover {
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+  }
+  </style><!--右下變圖<遮罩-->
+
+
+
 <head>
    
 	<meta charset="UTF-8">
@@ -39,7 +57,7 @@
              </li>	
         </ul>
         <ul class="homemenu2";style="list-style-type:none;">
-             <li> <a href="#">門市位址</a>
+             <li> <a href="map.html">門市位址</a>
              </li>	
         </ul>
         <ul class="homemenu3";style="list-style-type:none;">
@@ -69,8 +87,9 @@
 <br>
 <br>
 <br>
+    <h1>此為html測試網頁</h1>
     <iframe width="878" height="494" src="https://www.youtube.com/embed/hdFyPi-ODfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+	<div class="pic">
     <div class="pics">
     <a href=""><img src="img/frist/eve.jpg" ></a><!--alt="滑入顯示的圖片"-->
     <a href=""><img src="img/frist/maka.jpg"></a><!--alt="原本顯示的圖片"-->
@@ -83,8 +102,11 @@
       <a href=""><img src="img/frist/mango.jpg" border="0"></a>
    
       <a href=""><img src="img/frist/sweet.jpg" border="0"></a>
-   <div class="fixed" ><!--右下浮動-->
-      <img src="img/frist/bg2.png" border="0">
-   </div>
+    </div> 
+ 
+
+   <div class="fixed">
+      <a href="index.html"><img class="button" src="img/frist/bg2.png" border="0"></a><!--右下浮動-->
+    </div>
 </body>
 </html>
