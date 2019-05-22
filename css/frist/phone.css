@@ -11,25 +11,53 @@ ul.homemenu {
             font-size: 30px;
             height: auto;
             max-width: 40%;
-            left:50px;
+            
     }
 ul.homemenu1 {
             font-size: 30px;
             height: auto;
             max-width: 40%;
-            left:150px;
+            
     }
 ul.homemenu2 {
             font-size: 30px;
             height: auto;
             max-width: 40%;
-            left:250px;
+            
     }
 ul.homemenu3 {
             font-size: 30px;
             height: auto;
             max-width: 40%;
-            left:350px;
+            
+    }
+ul.list {
+          font-size: 20px;
+          height: auto;
+          max-width: 40%;
+            
+          
+    }
+ul.list1 {
+          font-size: 20px;
+          height: auto;
+          max-width: 40%;
+            
+          
+    }
+ul.list2 {
+          font-size: 20px;
+          height: auto;
+          max-width: 40%;
+            
+          
+    }
+ul.list3 {
+          font-size: 20px;
+          height: auto;
+          max-width: 40%;
+            
+          
     }
 ul.oldd {
           font-size: 15px;

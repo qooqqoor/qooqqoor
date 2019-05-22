@@ -1,0 +1,29 @@
+    ul.list2 {
+        
+        font-family: 微軟正黑體, sans-serif;
+          
+    }
+
+    ul.list2 li {
+        position: fixed;
+        top:365px;left:5px; /*距離上方 0 像素*/
+        z-index:1; /*重疊時會在其他元素之上*/
+        left:auto; /*距離左方的位置*/
+    }
+
+ 
+     ul.list2 a {
+        background-color: none;
+        border: #ccc 1px solid;
+        color: #BBFFEE;
+        display: block;
+        padding: 0 30px;
+        text-decoration: none;
+        line-height: 40px;
+    }
+    ul.list2 a:hover { /* 滑鼠滑入按鈕變色*/
+        background-color:#CCDDFF;
+        color: #0044BB;
+    }
+
+
