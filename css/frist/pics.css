@@ -1,3 +1,4 @@
+
 .pics img{ position:absolute;
   /* 淡出淡入效果2秒 */
   -webkit-transition: opacity 2s ease-in-out;
@@ -5,6 +6,9 @@
   -o-transition: opacity 2s ease-in-out;
   transition: opacity 2s ease-in-out;
  }
- .pics img:last-child:hover{
+.pics img:last-child:hover{
      /* 滑入時第一張透明度設0 */
       opacity:0;}
+
+
+
