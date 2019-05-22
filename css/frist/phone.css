@@ -40,12 +40,12 @@ ul.oldd {
 
 
 iframe {
-     height: 200px;
-     max-width: 70%;
+     height: 300px;
+     max-width: 100%;
  }
 
 img {
      height: auto;
-     max-width: 70%;
+     max-width: 80%;
  }
  
